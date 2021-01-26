@@ -6,7 +6,8 @@ This repository is for code and data files.  All other course information is pos
 
 ### Important Note 
 Github's notebook renderer is trash.  Pages will often not display correctly. 
-**One workaround is to view the pages on [nbviewer](https://nbviewer.jupyter.org/github/mdaugherity/Numerical-2021/tree/main/)**
+**One workaround is to view the pages on [nbviewer](https://nbviewer.jupyter.org/github/mdaugherity/Numerical-2021/tree/main/)**.  
+Another approach is to open the files directly from Colab.
 
 # OUTLINE
 ## WEEK 1 - Introduction and Review
