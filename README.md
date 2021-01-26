@@ -4,6 +4,10 @@ Dr. Daugherity, Abilene Christian University
 
 This repository is for code and data files.  All other course information is posted on Canvas.
 
+### Important Note 
+Github's notebook renderer is trash.  Pages will often not display correctly. 
+**One workaround is to view the pages on [nbviewer](https://nbviewer.jupyter.org/github/mdaugherity/Numerical-2021/tree/main/)**
+
 # OUTLINE
 ## WEEK 1 - Introduction and Review
 * [Class 1-13-21](PHYS_451_Class_1_13_21.ipynb) - Python and Google Colab Cheat Sheet 
