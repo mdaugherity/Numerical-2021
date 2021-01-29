@@ -17,3 +17,5 @@ Another approach is to open the files directly from Colab.
 * [LaTeX Crash Course](LaTeX_Crash_Course.ipynb) - How to make nice equations
 ## WEEK 2 - Systems of Linear Equations
 * [Class 1-22-21](PHYS_451_Class_1_22_21.ipynb) - Examples solving linear systems
+## WEEK 3 - Interpolation and Fitting
+* [Week 3 Examples](Week_3_Interpolation.ipynb)
