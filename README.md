@@ -18,4 +18,4 @@ Another approach is to open the files directly from Colab.
 ## WEEK 2 - Systems of Linear Equations
 * [Class 1-22-21](PHYS_451_Class_1_22_21.ipynb) - Examples solving linear systems
 ## WEEK 3 - Interpolation and Fitting
-* [Week 3 Examples](Week_3_Interpolation.ipynb)
+* [Week 3 Examples](Week_3_Interpolation.ipynb) - scipy.interpolate.interp1d and np.polyfit
