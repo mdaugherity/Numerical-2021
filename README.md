@@ -22,3 +22,5 @@ Another approach is to open the files directly from Colab.
 * [Polynomial Fits](Week_3_Fitting_Polynomials.ipynb) - np.polyfit and polyval
 * [Exponential Fits](Week_3_Exponential_Fit.ipynb) - transforming data
 ## WEEK 4 - ROOT FINDING
+* [Class 2-5-21](Class_2_5_2021.ipynb) - first experiments with root finding
+* [Bisection Demo](Week_4_Bisection_Demo.ipynb) - simple bisection algorithm 
