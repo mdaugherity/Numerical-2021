@@ -24,3 +24,5 @@ Another approach is to open the files directly from Colab.
 ## WEEK 4 - ROOT FINDING
 * [Class 2-5-21](Class_2_5_2021.ipynb) - first experiments with root finding
 * [Bisection Demo](Week_4_Bisection_Demo.ipynb) - simple bisection algorithm 
+* Newton and Secant
+* [Practice Problems](CH4_Root_Finding_Examples.ipynb) 
