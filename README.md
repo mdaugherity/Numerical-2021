@@ -26,4 +26,4 @@ Another approach is to open the files directly from Colab.
 * [Bisection Demo](Week_4_Bisection_Demo.ipynb) - simple bisection algorithm 
 * [Newton and Secant](Week_4_Newton.ipynb) - Simple demos of Newton and Secant methods
 * [Using root_solve](Week_4_root_solve.ipynb) - how to use root_solve
-* [Practice Problems](CH4_Root_Finding_Examples.ipynb) 
+* [Practice Problems](CH4_Root_Finding_Examples.ipynb) - [Solutions](CH4_Root_Finding_Solutions.ipynb)
