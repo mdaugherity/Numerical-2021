@@ -31,3 +31,6 @@ Another approach is to open the files directly from Colab.
 ## Derivatives
 * [First Derivatives](diffs/Week_5_Derivative_Types.ipynb) - examples of forward, backward, and centered differences
 * [Derivative Examples](diffs/Week_5_Derivatives.ipynb) - how to find derivatives for functions and data points
+## Integrals
+* [Newton-Cotes Demo](integrals/Week_6_Newton_Cotes_Integrals.ipynb) - simple implementation of rectangle, trapezoid, and Simpson's method
+* [Numerical Integral Errors](integrals/Week_6_Integral_Errors.ipynb) - compare errors in trapezoid, Simpson, and Romberg integration 
