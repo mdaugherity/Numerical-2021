@@ -25,7 +25,7 @@ Another approach is to open the files directly from Colab.
 ## Root Finding
 * [Class 2-5-21](roots/Class_2_5_2021.ipynb) - first experiments with root finding
 * [Bisection Demo](roots/Week_4_Bisection_Demo.ipynb) - simple bisection algorithm 
-* [Newton and Secant](roots/Week_4_Newton.ipynb) - Simple demos of Newton and Secant methods
+* [Newton and Secant](roots/Week_4_Newton.ipynb) - simple demos of Newton and Secant methods
 * [Using root_solve](roots/Week_4_root_solve.ipynb) - how to use root_solve
 * [Practice Problems](roots/CH4_Root_Finding_Examples.ipynb) - [Solutions](roots/CH4_Root_Finding_Solutions.ipynb)
 ## Derivatives
@@ -34,3 +34,5 @@ Another approach is to open the files directly from Colab.
 ## Integrals
 * [Newton-Cotes Demo](integrals/Week_6_Newton_Cotes_Integrals.ipynb) - simple implementation of rectangle, trapezoid, and Simpson's method
 * [Numerical Integral Errors](integrals/Week_6_Integral_Errors.ipynb) - compare errors in trapezoid, Simpson, and Romberg integration 
+## ODE
+* [Euler's Method](ode/Week_7_Euler.ipynb) - simple method for IVP
