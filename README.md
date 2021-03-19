@@ -36,3 +36,4 @@ Another approach is to open the files directly from Colab.
 * [Numerical Integral Errors](integrals/Week_6_Integral_Errors.ipynb) - compare errors in trapezoid, Simpson, and Romberg integration 
 ## ODE
 * [Euler's Method](ode/Week_7_Euler.ipynb) - simple method for IVP
+* [How to use solve_ivp](ode/Week_7_solveivp.ipynb) - examples using scipy.integrate.solve_ivp
