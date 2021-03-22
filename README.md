@@ -37,3 +37,4 @@ Another approach is to open the files directly from Colab.
 ## ODE
 * [Euler's Method](ode/Week_7_Euler.ipynb) - simple method for IVP
 * [How to use solve_ivp](ode/Week_7_solveivp.ipynb) - examples using scipy.integrate.solve_ivp
+* [Coupled Systems and Stiff Problems](ode/Class_3_22_2021.ipynb) - examples from class on 3-21-2021
