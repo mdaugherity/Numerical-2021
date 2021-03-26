@@ -34,7 +34,11 @@ Another approach is to open the files directly from Colab.
 ## Integrals
 * [Newton-Cotes Demo](integrals/Week_6_Newton_Cotes_Integrals.ipynb) - simple implementation of rectangle, trapezoid, and Simpson's method
 * [Numerical Integral Errors](integrals/Week_6_Integral_Errors.ipynb) - compare errors in trapezoid, Simpson, and Romberg integration 
-## ODE
+## ODE IVP
 * [Euler's Method](ode/Week_7_Euler.ipynb) - simple method for IVP
 * [How to use solve_ivp](ode/Week_7_solveivp.ipynb) - examples using scipy.integrate.solve_ivp
 * [Coupled Systems and Stiff Problems](ode/Class_3_22_2021.ipynb) - examples from class on 3-21-2021
+## ODE BVP
+* [Shooting Method](ode/Week_8_BVP.ipynb) - doing the shooting method with root_scalar and solve_ivp
+* [How to use solve_bvp](ode/Week_8_solvebvp_demo.ipynb) - examples using scipy.integrate.solve_bvp
+
