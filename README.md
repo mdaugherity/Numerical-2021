@@ -41,4 +41,7 @@ Another approach is to open the files directly from Colab.
 ## ODE BVP
 * [Shooting Method](ode/Week_8_BVP.ipynb) - doing the shooting method with root_scalar and solve_ivp
 * [How to use solve_bvp](ode/Week_8_solvebvp_demo.ipynb) - examples using scipy.integrate.solve_bvp
+## Random ("Stochastic") Methods
+* [Chaos](random/Week_9_Chaos.ipynb) - special topic on chaos with logistic maps 
+
 
