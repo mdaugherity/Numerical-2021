@@ -43,5 +43,6 @@ Another approach is to open the files directly from Colab.
 * [How to use solve_bvp](ode/Week_8_solvebvp_demo.ipynb) - examples using scipy.integrate.solve_bvp
 ## Random ("Stochastic") Methods
 * [Chaos](random/Week_9_Chaos.ipynb) - special topic on chaos with logistic maps 
+* [MC Integration](random/Week_10_MC_Integration.ipynb) - Monte Carlo Integration
 
 
